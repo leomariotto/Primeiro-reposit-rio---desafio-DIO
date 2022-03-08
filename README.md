@@ -2,9 +2,19 @@
 Desafio sobre Git/GitHub
 
 
-# Links de comandos uteis do Git
+## Alguns dos comandos uteis do Git
 
-## Criar novo repositório
+### Criar novo repositório
 git init
 
-## Verificar estado dos arquivos/diretórios
+### Verificar estado dos arquivos/diretórios
+git status
+
+### Adicionar todos os arquivos/diretórios
+git add .
+
+### Comitar informando mensagem
+git commit meuarquivo.txt -m "minha mensagem de commit"
+
+### Clonar um repositório remoto já existente
+git clone 
